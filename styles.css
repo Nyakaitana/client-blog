@@ -1,0 +1,60 @@
+html {
+    display: block;
+    color: -internal-root-color;
+}
+
+
+header {
+    display: block;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-size: 35px;
+    background-color: rgb(222, 60, 130);
+    padding: 50px 50px;
+    margin-top: 90px;
+    margin-bottom: 60px;
+    width: 90%;
+    height: 100px;
+   
+}
+div {
+    display: inline-block;
+    width: fit-content;
+    margin-left: 80px;
+    margin-right: 40px;
+}
+
+body{
+    font-family: 'Lato', sans-serif, 40px;
+    background: url(images/background2.png);
+
+    }
+
+.column img {
+    flex: 50%;
+    padding: 0 4px;
+    max-width: 45%;
+    margin-top: 15px;
+    vertical-align: middle;
+    width: 300%;
+
+
+    }
+.footer {
+    display: block;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-size: 35px;
+    background-color: rgb(222, 60, 130);
+    padding: 50px 50px;
+    margin-top: 90px;
+    margin-bottom: 60px;
+    width: 90%;
+    height: 100px;
+   
+
+}
+    
+    
+      
+
